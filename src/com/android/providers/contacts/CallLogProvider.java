@@ -61,6 +61,7 @@ import android.text.TextUtils;
 import android.util.ArrayMap;
 import android.util.EventLog;
 import android.util.Log;
+import android.util.EventLog;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.util.ProviderAccessStats;
